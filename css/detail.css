@@ -1051,10 +1051,9 @@ code {
 
 a{
   text-decoration: underline;
+  color: black;
 }
 
 a:hover{
   text-decoration: none;
 }
-
-
