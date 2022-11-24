@@ -452,7 +452,7 @@
         object-position: center top;
         position: relative;
         min-width: 28px;
-        margin: 5px 0px;
+        margin: 30px 0px;
       }
       
       .section4__rect3 {
@@ -884,10 +884,10 @@
   }
 
   a{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
   }
 
   a:hover{
-    text-decoration: underline;
+    text-decoration: none;
   }
