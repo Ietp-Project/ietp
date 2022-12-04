@@ -150,6 +150,12 @@ code {
   margin: 52px auto 0px;
 }
 
+.icon1{
+  border-radius: 50%; 
+  width: 70px;
+  height: 70px;
+}
+
 .title1 {
   display: flex;
   justify-content: center;
@@ -294,8 +300,8 @@ code {
 
 .medium_title1 {
   display: flex;
-  justify-content: center;
-  font: 400 24px/1.2 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-start;
+  font: 400 20px/1.2 "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -305,8 +311,8 @@ code {
 
 .medium_title11 {
   display: flex;
-  justify-content: center;
-  font: 400 24px/1.2 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-start;
+  font: 400 17px/1.2 "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -321,17 +327,16 @@ code {
   display: flex;
   flex-direction: column;
   background: var(--src) center center/cover no-repeat;
-  width: 77px;
-  height: 77px;
   position: absolute;
   top: -11px;
   left: -77px;
+
 }
 
 .medium_title12 {
   display: flex;
   justify-content: center;
-  font: 400 24px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 20px/1.2 "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -383,22 +388,22 @@ code {
 
 .medium_title13 {
   display: flex;
-  justify-content: center;
-  font: 400 24px/1.2 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-start;
+  font: 400 17px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
   width: 65.35%;
   position: relative;
   min-width: 149px;
-  margin: 0px 28.51% 0px 6.14%;
+  margin: 0px 25.51% 0px 3.14%;
 }
 
 
 .medium_title14 {
   display: flex;
   justify-content: center;
-  font: 400 24px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 20px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -645,6 +650,17 @@ code {
   min-width: 51px;
 }
 
+.icon {
+  width: 38px;
+  height: 38px;
+  vertical-align: top;
+  -o-object-fit: contain;
+  -o-object-position: center top;
+  object-position: center top;
+  border-radius: 50%;
+  margin: 2px;
+}
+
 .wrapper10 > .spacer {
   flex: 0 1 29px;
 }
@@ -729,7 +745,7 @@ code {
 .highlights2 {
   display: flex;
   justify-content: center;
-  font: 400 16px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 14px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -741,19 +757,19 @@ code {
   display: flex;
   align-items: center;
   justify-content: center;
-  font: 400 16px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 12px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
   position: relative;
-  min-width: 60px;
-  margin: 0.5px 18px 0px;
+  width: 110px;
+  margin: 0.5px 0px 0px;
 }
 
 .highlights5 {
   display: flex;
   justify-content: center;
-  font: 400 16px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 14px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -800,19 +816,19 @@ code {
 .highlights6 {
   display: flex;
   justify-content: center;
-  font: 400 16px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 12px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;
   position: relative;
-  min-width: 54px;
-  margin: 1px 18px 0px;
+  width: 110px;
+  margin: 1px 0px 0px;
 }
 
 .highlights7 {
   display: flex;
   justify-content: center;
-  font: 400 16px/1.2 "Roboto", Helvetica, Arial, serif;
+  font: 400 14px "Roboto", Helvetica, Arial, serif;
   color: black;
   text-align: center;
   letter-spacing: 0px;

@@ -223,7 +223,7 @@
       }
     
       .section2__big_title {
-        font: 300 36px "Roboto", Helvetica, Arial, serif;
+        font: 300 23px "Roboto", Helvetica, Arial, serif;
         color: black;
         letter-spacing: 0px;
         position: relative;
@@ -351,7 +351,7 @@
       
       .section3__medium_title1 {
         display: flex;
-        justify-content: center;
+        justify-content: flex-start;
         font: 18px "Roboto", Helvetica, Arial, serif;
         color: black;
         text-align: center;
